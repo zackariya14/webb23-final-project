@@ -1,4 +1,4 @@
-# Webb23 alm final task
+# Webb23 alm final project
 
 ## Objective
 In this assignment, you will containerize a Django application, deploy it using Kubernetes (Minikube), and set up GitHub Actions to automate testing. 
